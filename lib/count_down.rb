@@ -3,4 +3,4 @@ while count > 0 do
   puts count
   count-=1
 end
-put "Happy New Year!"
+puts "Happy New Year!"
